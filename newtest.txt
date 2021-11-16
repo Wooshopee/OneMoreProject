@@ -1,1 +1,2 @@
 this is one exemple of merge 
+from feature branch now 
