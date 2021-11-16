@@ -1,1 +1,3 @@
 stilll learning about git 
+
+This is the compare line 
